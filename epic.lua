@@ -1,3 +1,3 @@
 while wait() do
-    game:OpenScreenshotsFolder()
+	game:OpenScreenshotsFolder()
 end
